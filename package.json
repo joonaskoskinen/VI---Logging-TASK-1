@@ -1,0 +1,11 @@
+{
+  "name": "logging-task",
+  "version": "1.0.0",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "dependencies": {
+    "winston": "3.11.0"
+  }
+}
